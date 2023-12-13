@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="itemBackground">#008080</color>
+    <color name="loading">#0F52BA</color>
+    <color name="loadingBackground">#89CFF0</color>
+    <color name="primary">#0354d2</color>
+    <color name="secondary">#088F8F</color>
+    <color name="statusBar">#0053cc</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="eight_dp_margin">8dp</dimen>
+    <dimen name="sixteen_dp_margin">16dp</dimen>
+    <dimen name="ten_dp_margin">10dp</dimen>
+    <string name="app_name">FetchRewardsExercise</string>
+    <string name="sample">0</string>
+    <style name="Theme.FetchRewards" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:statusBarColor">@color/statusBar</item>
+    </style>
+</resources>

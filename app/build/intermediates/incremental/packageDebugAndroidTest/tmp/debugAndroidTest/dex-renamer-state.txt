@@ -1,0 +1,7 @@
+#Tue Dec 12 20:52:40 CST 2023
+base.1=C\:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\7\\classes.dex
+path.1=7/classes.dex
+base.0=C\:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

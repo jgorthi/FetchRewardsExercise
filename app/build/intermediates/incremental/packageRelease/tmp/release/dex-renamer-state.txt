@@ -1,0 +1,7 @@
+#Tue Dec 12 20:53:30 CST 2023
+base.1=C\:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\layout_main_fragment.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\layout_listid_item.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\layout\\listid_item.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\layout_name_item.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\layout\\name_item.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\layout_main_activity.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\layout_names_fragment.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\layout\\names_fragment.xml"
+    },
+    {
+        "merged": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\My Files\\wells fargo\\FetchRewardsExercise\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]
