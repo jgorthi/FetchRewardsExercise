@@ -17,3 +17,10 @@ Coroutines <br>
 RecyclerView <br>
 Klaxon (JSON Parser) <be>
 
+## __Recording__
+https://github.com/jgorthi/FetchRewardsExercise/assets/93963586/856951be-d292-4854-86d1-b373464c2a09
+
+
+
+
+
